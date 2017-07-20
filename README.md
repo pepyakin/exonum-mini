@@ -31,6 +31,8 @@ cargo run --target=wasm32-unknown-emscripten
 
 If everything goes right, you will able to find WebAssembly binaries at `target/wasm32-unknown-emscripten/debug/deps/`.
 
+Ah, by the way, there is [prebuilt binaries](https://github.com/pepyakin/exonum-mini/tree/master/prebuilt) if you like.
+
 ## Running
 
 To run it you need to use Node 8 or later. 
