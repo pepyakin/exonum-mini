@@ -18,7 +18,7 @@ cd libsodium
 export LIBSODIUM_DIR=`pwd`
 
 ./autogen.sh
-./dist-build/emscripten-wasm.sh
+./dist-build/emscripten-wasm.sh --standard
 ```
 
 Now you are ready to build this project.
