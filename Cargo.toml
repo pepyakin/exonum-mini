@@ -1,0 +1,13 @@
+[package]
+name = "exonum-mini"
+version = "0.1.0"
+authors = ["Sergey Pepyakin <s.pepyakin@gmail.com>"]
+
+[dependencies]
+sodiumoxide = "*"
+byteorder = "*"
+bit-vec = "*"
+hex = "*"
+serde = "*"
+serde_json = "*"
+serde_derive = "*"
